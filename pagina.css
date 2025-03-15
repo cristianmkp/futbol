@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Mi página</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        a, a:visited, a:hover, a:active {
+            color: #010;
+            font-size: 16px;
+            text-decoration: none;
+        }
+
+        body {
+            background: #eee;
+            font-family: Verdana, sans-serif;
+        }
+
+        h1 {
+            color: #c0c0c0; 
+            font-size: 24px;
+        }
+
+        p {
+            font-size: 16px;
+        }
+
+        ul {
+            list-style-type: none;
+        }
+
+        #cabecera {
+            color: #ff9;
+            background-color: #000;
+            padding: 10px;
+            text-align: center;
+        }
+
+        #contenedor {
+            margin: 20px auto;
+            width: 800px;
+            overflow: hidden; 
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+        }
+
+        #contenido {
+            background-color: #ddd;
+            float: left;
+            height: 500px;
+            padding: 20px;
+            width: 560px;
+        }
+
+        #menu { 
+            color: #FFF;
+            background-color: #999;
+            float: left;
+            height: 500px;
+            padding: 20px;
+            width: 180px;
+        }
+    </style>
+</head>
+<body>
+
+<div id="contenedor">
+    <div id="cabecera">
+        <p>El futbol</p>
+    </div>
+
+    <div id="menu">
+        <ul>
+            <li><a href="https://www.fifa.com/es/">FIFA</a></li>
+            <li><a href="mundial.html">Mundial</a></li>
+            <li><a href="Champions league.html">Champions league</a></li>
+        </ul>
+    </div>
+
+    <div id="contenido">
+        <h1>Esta sección es para el contenido de la página</h1>
+<h1><p> Mundial </p></h1>
+<a><top margin="90%"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS34svDTjNDzWmmsm8AaCQrRAW1P8Gy5fWJjw&s" width=300 height="260"align="left">El mundial de fútbol es un gran evento deportivo en el que compiten las mejores selecciones nacionales del mundo de este deporte. Se celebra cada cuatro años desde 1930, con la excepción de los años 1942 y 1946, en los que se suspendió debido a la Segunda Guerra Mundial. 
+
+La copa Mundial de Fútbol sirve para que haya una integración social y cultural entre las naciones visitantes y el país anfitrión de este evento. Reúne en la competencia pueblos de diferentes costumbres, razas y creencias porque a este campeonato llegan selecciones de países de los cinco continentes del planeta, promoviendo de esta manera el turismo, esparcimiento de la cultura del deporte de futbol y convivencia entre culturas.
+
+Tras su fundación en 1904,? uno de los objetivos de la Federación Internacional de Fútbol Asociación (FIFA) consistió en organizar un torneo internacional de balompié alternativo a los certámenes olímpicos. Si bien su intención era que esta nueva competición se realizara en Suiza a partir de 1906, la iniciativa no llegó a concretarse en aquel momento sin embargo, el fútbol se consolidó como un deporte olímpico oficial.
+<br>
+
+<img src=" https://static.wikia.nocookie.net/logopedia/images/5/5c/FIFA_1928.png/revision/latest?cb=20200730200204&path-prefix=es " width=350 height="290"align="right">La experiencia obtenida con la organización de los últimos torneos olímpicos de fútbol motivó al entonces presidente de la FIFA, Jules Rimet, a retomar la iniciativa de producir una competencia independiente a las Olimpiadas. Como acción inicial el organismo realizó un cuestionario para sondear la opinión de las asociaciones afiliadas, y se designó una comisión especial a cargo del proyecto. Finalmente la iniciativa del campeonato mundial de la FIFA se formalizó en un congreso celebrado en mayo de 1928. Si bien Italia, Hungría, Países Bajos, España y Suecia se postularon como sedes organizadoras, Uruguay resultó elegido ya que su selección había ganado el último par de justas olímpicas además de que el mundial habría de coincidir con la conmemoración del centenario de su independencia.?
+
+Desde ese momento esta institución es quien ha organizado los campeonatos mundiales de fútbol, conocido y nombrado como La Copa Mundial de la FIFA, también Copa Mundial de Fútbol, Copa del Mundo o Mundial, o Copa FIFA del Mundo. Sin embargo, el nombre original es Campeonato Mundial de Fútbol.
+
+<img src="https://files.merca20.com/uploads/2022/12/Ganadores-Copa-Mundo.jpg " width=350 height="240"align="left">Para que cada país pueda competir con su equipo nacional en el mundial deben pasar por dos etapas, con las que cuenta este torneo. La primera es el proceso clasificatorio en el que participan en la actualidad cerca de 200 selecciones nacionales. De ahí quedan cerca de 32 equipos que irán a competir en una sede (en algún país del mundo) definida con anticipación durante un periodo cercano a un mes para lograr ser el campeón mundial de la Copa, y sólo un país podrá tenerla.
+
+La Copa Mundial de la FIFA ha sido realizada en 19 ocasiones, en las que ocho países han alzado la copa: Brasil es el equipo más exitoso, con cinco victorias. Además, Brasil ha participado 15 veces en los Mundiales de Fútbol, de los cuales han ganado 49 de los 73 partidos jugados. Italia ha obtenido cuatro trofeos, mientras que Alemania tiene tres; Uruguay, Argentina y Francia la han ganado dos veces, en tanto que Inglaterra en una sola ocasión..
+<br>
+
+<p><img src="https://www.fundeu.es/wp-content/uploads/2010/06/Mundial-de-Sud%C3%A1frica1.jpg " width=200 height="150"align="right">En la Copa Mundial número diecinueve (XIX) celebrada entre el 11 de junio y el 11 de julio del 2010, tuvo lugar por primera vez en un país del continente africano: Sudáfrica. España se coronó campeón al vencer a Holanda por un gol a cero.
+
+Además existen otras competiciones que también son copas mundiales de fútbol, entre las que destacan la Copa Mundial Femenina de Fútbol, la Copa Mundial de Fútbol Sub-20 (Mayores) y la Copa Mundial de Fútbol Sub-17 (Jóvenes de 17 años), las tres organizadas por la FIFA.</a>
+|
+
+
+
+
+
+</body>
+</html>
+    </div>

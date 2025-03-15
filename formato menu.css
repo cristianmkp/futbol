@@ -1,0 +1,100 @@
+﻿ {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body {
+    height: 100vh;
+background-image: url(https://img.freepik.com/vector-gratis/fondo-hexagonal-oscuro-color-degradado_79603-1409.jpg?t=st=1742075797~exp=1742079397~hmac=b68853cdc8157b95f3c415c96bee820cbcb5cd666fca975955875daaf71861d0&w=996);
+ background-size: 300% 300%;
+    background-repeat: no-repeat;
+}
+nav {
+    background-color: black;
+    padding-left: 2vw;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 100%;
+color: white;
+font-size: 17px;
+}
+
+.main-ul {
+    display: flex;
+    align-items: center;
+}
+
+li {
+    list-style: none;
+    cursor: pointer;
+    padding: 1.5vw;
+    transition: 0.3s ease;
+}
+
+li:hover {
+    background-color: #008849;
+}
+
+.develop {
+    position: relative;
+}
+
+.second-ul {
+    display: none;
+    position: absolute;
+    margin-top: 1.5vw;
+}
+
+
+.develop:hover > .second-ul {
+    display: block;
+}
+
+.second-ul > li {
+    width: 190px;
+    transform: translateX(-20px);
+    border-bottom: solid 1px;
+    text-align: center;
+    background-color: #24252a;
+}
+
+.second-ul > li:hover {
+    background-color: #008849;
+}
+.develop:hover {
+    display: block;
+}
+
+.third-ul {
+position: absolute;
+transform: translateX(100%);
+right: 0;
+top: 50%;
+display: none;
+background-color: #24252a;
+}
+.third-ul > li {
+padding: 1.5vw;
+border-bottom: solid 1px white;}
+
+.front:hover > .third-ul {
+display: block;
+}
+a1{
+  font-family:Britannic Bold;
+    text-align: center;
+    margin: 0;
+    margin: px auto;
+  padding: 0;
+color: white;
+font-size: 50px;
+ }
+ a2{
+    font-family:Britannic Bold;
+      text-align: center;
+      margin: 0;
+    padding: 0;
+  color: white;
+  font-size: 20px;
+   }
